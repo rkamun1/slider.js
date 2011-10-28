@@ -1,0 +1,1 @@
+Slider.js is a simple slideshow application that I created for a client. It consists of a (blinds) area and a matching canvas area. The slide show works such that the first blind matches the image on the canvas
